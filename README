@@ -1,0 +1,11 @@
+Matthew Caceres 111694060
+
+3 options:
+
+1. place input file in GrahamScan folder (not src folder. put with other text files). then run GrahamScan.java in src and input filename in textfield and submit.
+
+2. copy and paste input file to the temp1 text file provided. then run GrahamScan.java in src and input temp1 in textfield and submit.
+
+3. run GrahamScan.java and input random in textfield and submit for random points.
+
+Finally: look at output file or visual.
